@@ -1,11 +1,17 @@
 [![Build Status](https://travis-ci.com/brain-score/model-tools.svg?token=vqt7d2yhhpLGwHsiTZvT&branch=master)](https://travis-ci.com/brain-score/model-tools)
 
-# Brain-Score Model Tools
+
+# Community Note: 
+
+As of 2024, model-tools functionality has been integrated into brainscore-vision. This repo is now archived. We are no longer actively contributing or maintaining model-tools. Please see [here](https://github.com/brain-score/vision) to access the updated (and maintined codebase)
+
+
+## Brain-Score Model Tools
 
 Utility for generic models to interact with brain data.
 
 
-## Environment variables
+### Environment variables
 
 Environment variables are prefixed with `MT_`.
 
